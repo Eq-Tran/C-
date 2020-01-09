@@ -1,2 +1,1 @@
-# C-
-Simple repo for personal C++ practice
+Repository for C++ practice projects
