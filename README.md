@@ -1,6 +1,6 @@
 # Personal Practice
 <hr>
-** C++ Practice Repository**
+** C++ Practice Repository **
 
 All programs personal projects, finished, and unfinished.
 
