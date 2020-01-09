@@ -1,1 +1,5 @@
-## Repository for C++ practice projects
+### Personal Practice
+
+C++ Practice Repository
+
+&copy; Ethan Tran
